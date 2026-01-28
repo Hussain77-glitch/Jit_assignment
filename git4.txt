@@ -1,0 +1,4 @@
+vehicle: Bike
+model: Kawasaki z900
+make year: 2026
+price: 12 lacs
